@@ -16,13 +16,15 @@ By completing this project, I have demonstrated:
 
 ## Project Structure
 
+```
 odin-recipes/
 ├── index.html # Homepage with recipe links
 ├── recipes/
-│ ├── lasagna.html # Recipe page 1
-│ ├── spaghetti.html # Recipe page 2
-│ └── cake.html # Recipe page 3
+│   ├── lasagna.html # Recipe page 1
+│   ├── spaghetti.html # Recipe page 2
+│   └── cake.html # Recipe page 3
 └── README.md
+```
 
 ## Reflection
 This project reinforced the importance of clean HTML structure and thoughtful navigation. Future improvements could include CSS styling to enhance visual presentation.
